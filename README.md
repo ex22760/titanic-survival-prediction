@@ -32,8 +32,10 @@ This notebook walks through the following key steps:
 - Random imputation (performed best)
   
   ![image](https://github.com/user-attachments/assets/11f1ea5d-2d57-4a9a-a288-183a49678dbf)
+
   
   ![image](https://github.com/user-attachments/assets/660a508b-0502-4d61-9a5f-6e6981d346a9)
+
 
 - Stratified random sampling
 - Advanced methods: **MICE**, **MissForest**, **KNN**
@@ -41,12 +43,14 @@ This notebook walks through the following key steps:
 ### 4. Feature Engineering & Preprocessing
 - Capped outliers
 - Log, Box-Cox, and Yeo-Johnson transformations
-- 
+
+  
   ![image](https://github.com/user-attachments/assets/1137d0a4-28b9-47ad-97e9-282f57584fe5)
 
 - Encoded rare labels in categorical columns
 - Calculated permutation-based feature importances:
-- 
+
+  
 ![image](https://github.com/user-attachments/assets/a30ccf30-86cf-476d-955b-74f5e1c56279)
 
 
@@ -62,7 +66,7 @@ This notebook walks through the following key steps:
 | Gradient Boosting with Grid Search | 0.909        | 0.795         |
 | Logistic Regression with Grid Search | 0.833       | 0.810         |
 
-  - Best Params: `max_depth=5`, `min_samples_split=10`, `n_estimators=30`
+  - Random Forest with Grid search performed best with best parameters: `max_depth=5`, `min_samples_split=10`, `n_estimators=30`
 
 
 ---
