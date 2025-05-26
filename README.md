@@ -17,7 +17,7 @@ This repository showcases my solution to Kaggle’s iconic Titanic: Machine Lear
 
 ```bash
 
-├── Data/                   # Raw datasets used for the competition
+├── data/                   # Raw datasets used for the competition
 ├── titanic_notebook.ipynb  # Main notebook with code and analysis
 ├── submission_titanic.csv  # Final prediction file submitted to Kaggle
 ├── requirements.txt
@@ -31,12 +31,23 @@ This repository showcases my solution to Kaggle’s iconic Titanic: Machine Lear
 
 ## How to Run 
 
-If you'd like to reproduce this locally:
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/ex22760/titanic-survival-prediction.git
 cd titanic-survival-prediction
+```
+
+2. Install dependencies:
+
+```bash
 pip install -r requirements.txt
+```
+
+3. Launch the notebook:
+
+```bash
+jupyter notebook titanic_survival_analysis.ipynb
 ```
 
 ---
