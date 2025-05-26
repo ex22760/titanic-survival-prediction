@@ -1,6 +1,6 @@
 # Titanic - Machine Learning from Disaster 
 
-This repository showcases my solution to Kaggle’s iconic Titanic: Machine Learning from Disaster competition — where the challenge is to predict passenger survival using real-world data and classification models. Featuring robust feature engineering, advanced imputation techniques, and a tuned Random Forest pipeline, this project achieved a top 10% accuracy score on the leaderboard.
+This repository showcases my solution to Kaggle’s iconic Titanic: Machine Learning from Disaster competition — where the challenge is to predict passenger survival using real-world data and classification models. Featuring robust feature engineering, advanced imputation techniques, and a tuned Random Forest pipeline, this project achieved a top 10% accuracy score on the leaderboard. See titanic_notebook.py for further detailed visualisations and a comprehensive walkthrough of my approach to the problem.
 
 ---
 
