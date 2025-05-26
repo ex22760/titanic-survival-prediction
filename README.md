@@ -69,6 +69,8 @@ This notebook walks through the following key steps:
 ### 3. Imputation Techniques Explored
 - Mean/Median/Mode imputation (with group-based logic)
 - Random imputation (performed best)
+  ![image](https://github.com/user-attachments/assets/11f1ea5d-2d57-4a9a-a288-183a49678dbf)
+
 - Stratified random sampling
 - Advanced methods: **MICE**, **MissForest**, **KNN**
 
@@ -77,13 +79,11 @@ This notebook walks through the following key steps:
 - Log, Box-Cox, and Yeo-Johnson transformations
 - Encoded rare labels in categorical columns
 - Calculated permutation-based feature importances:
-  - `Fare`: 0.103
-  - `Pclass`: 0.099
-  - `Age`: 0.083
-  - `Sex_male`: 0.082
-  - `Honorific_Mr`: 0.048
+![image](https://github.com/user-attachments/assets/a30ccf30-86cf-476d-955b-74f5e1c56279)
+![image](https://github.com/user-attachments/assets/660a508b-0502-4d61-9a5f-6e6981d346a9)
 
-### 5. Modeling and Grid Search
+
+### 5. Modelling and Grid Search
 - Built pipelines with:
   - Random Forest
   - Gradient Boosting
