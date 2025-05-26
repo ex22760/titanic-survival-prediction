@@ -16,22 +16,16 @@ The goal is to predict which passengers survived the Titanic shipwreck using cla
 
 ---
 
-## Contents
+## Folder Structure
 
+```bash
 - `titanic_notebook.ipynb`: Main notebook with code and analysis
 - `submission_titanic.csv`: Final prediction file submitted to Kaggle
 - `requirements.txt`: Python dependencies
+```
 
 ---
 
-## Data
-
-You can download the original dataset from the Kaggle competition page:  
-🔗 https://www.kaggle.com/competitions/titanic/data
-
-Place `train.csv` and `test.csv` in a local `data/` folder if running offline.
-
----
 
 ## How to Run 
 
@@ -45,7 +39,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📊 Overview
+## Workflow
 
 This notebook walks through the following key steps:
 
