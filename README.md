@@ -71,18 +71,16 @@ This notebook walks through the following key steps:
 
 ---
 
-## 📈 Final Classification Report
+## Final Classification Report
 
-```bash 
-            precision   recall   f1-score   support
+| Class   | Precision | Recall | F1-Score | Support |
+|---------|-----------|--------|----------|---------|
+| 0       | 0.81      | 0.91   | 0.86     | 157     |
+| 1       | 0.85      | 0.70   | 0.77     | 111     |
+| **Accuracy** |           |        | **0.82**   | 268     |
+| **Macro Avg** | 0.83      | 0.81   | 0.81     | 268     |
+| **Weighted Avg** | 0.83  | 0.82   | 0.82     | 268     |
 
-       0       0.81      0.91      0.86       157
-       1       0.85      0.70      0.77       111
-
-accuracy                           0.82       268
-macro avg      0.83      0.81      0.81       268
-weighted avg   0.83      0.82      0.82       268
-```
 
 ---
 
