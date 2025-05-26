@@ -6,11 +6,9 @@ This repository showcases my solution to Kaggle’s iconic Titanic: Machine Lear
 
 ## Tech Stack
 
-**Languages:** Python
-
-**Libraries:** numpy, pandas, matplotlib, seaborn, scipy, scikit-learn, xgboost, re, warnings
-
-**Tools:** Jupyter Notebook, Git/GitHub, GridSearchCV
+- **Languages:** Python
+- **Libraries:** numpy, pandas, matplotlib, seaborn, scipy, scikit-learn, xgboost, re, warnings
+- **Tools:** Jupyter Notebook, Git/GitHub, GridSearchCV
 
 ---
 
