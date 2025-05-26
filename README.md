@@ -87,7 +87,7 @@ This notebook walks through the following key steps:
 ## 📈 Final Classification Report
 
 ```bash 
- precision    recall  f1-score   support
+            precision   recall   f1-score   support
 
        0       0.81      0.91      0.86       157
        1       0.85      0.70      0.77       111
