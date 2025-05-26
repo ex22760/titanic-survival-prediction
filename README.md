@@ -13,45 +13,6 @@ This repository showcases my solution to Kaggle’s iconic Titanic: Machine Lear
 
 ---
 
-## Folder Structure
-
-```bash
-
-├── data/                   # Raw datasets used for the competition
-├── titanic_notebook.ipynb  # Main notebook with code and analysis
-├── submission_titanic.csv  # Final prediction file submitted to Kaggle
-├── requirements.txt
-├── README.md
-├── LICENSE
-├── .gitignore
-```
-
----
-
-
-## How to Run 
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/ex22760/titanic-survival-prediction.git
-cd titanic-survival-prediction
-```
-
-2. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Launch the notebook:
-
-```bash
-jupyter notebook titanic_survival_analysis.ipynb
-```
-
----
-
 ## Workflow
 
 This notebook walks through the following key steps:
@@ -71,6 +32,7 @@ This notebook walks through the following key steps:
 - Random imputation (performed best)
   
   ![image](https://github.com/user-attachments/assets/11f1ea5d-2d57-4a9a-a288-183a49678dbf)
+  
   ![image](https://github.com/user-attachments/assets/660a508b-0502-4d61-9a5f-6e6981d346a9)
 
 - Stratified random sampling
@@ -114,6 +76,45 @@ macro avg      0.83      0.81      0.81       268
 weighted avg   0.83      0.82      0.82       268
 ```
 
+---
+
+## How to Run 
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/ex22760/titanic-survival-prediction.git
+cd titanic-survival-prediction
+```
+
+2. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Launch the notebook:
+
+```bash
+jupyter notebook titanic_survival_analysis.ipynb
+```
+
+---
+
+## Folder Structure
+
+```bash
+
+├── data/                   # Raw datasets used for the competition
+├── titanic_notebook.ipynb  # Main notebook with code and analysis
+├── submission_titanic.csv  # Final prediction file submitted to Kaggle
+├── requirements.txt
+├── README.md
+├── LICENSE
+├── .gitignore
+```
+
+---
 
 ## Contact
 
