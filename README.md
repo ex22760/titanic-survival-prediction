@@ -41,7 +41,7 @@ If you'd like to reproduce this locally:
 git clone https://github.com/yourusername/titanic-survival-prediction.git
 cd titanic-survival-prediction
 pip install -r requirements.txt
-'''
+```
 
 ---
 
@@ -90,7 +90,7 @@ This notebook walks through the following key steps:
 
 ## 📈 Final Classification Report
 
-'''bash 
+```bash 
  precision    recall  f1-score   support
 
        0       0.81      0.91      0.86       157
@@ -99,6 +99,6 @@ This notebook walks through the following key steps:
 accuracy                           0.82       268
 macro avg      0.83      0.81      0.81       268
 weighted avg   0.83      0.82      0.82       268
-'''
+```
 
 
