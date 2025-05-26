@@ -19,9 +19,12 @@ The goal is to predict which passengers survived the Titanic shipwreck using cla
 ## Folder Structure
 
 ```bash
-- `titanic_notebook.ipynb`: Main notebook with code and analysis
-- `submission_titanic.csv`: Final prediction file submitted to Kaggle
-- `requirements.txt`: Python dependencies
+
+├── Data/                   # Raw datasets used for the competition
+├── titanic_notebook.ipynb  # Main notebook with code and analysis
+├── submission_titanic.csv  # Final prediction file submitted to Kaggle
+├── requirements.txt
+├── README.md
 ```
 
 ---
