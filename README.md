@@ -1,9 +1,6 @@
 # Titanic - Machine Learning from Disaster 
 
-This repository contains my submission for the classic Kaggle competition:  
-**Titanic - Machine Learning from Disaster**
-
-The goal is to predict which passengers survived the Titanic shipwreck using classification models.
+This repository showcases my solution to Kaggle’s iconic Titanic: Machine Learning from Disaster competition — where the challenge is to predict passenger survival using real-world data and classification models. Featuring robust feature engineering, advanced imputation techniques, and a tuned Random Forest pipeline, this project achieved a top 10% accuracy score on the leaderboard.
 
 ---
 
