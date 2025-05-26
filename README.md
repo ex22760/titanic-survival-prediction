@@ -1,4 +1,4 @@
-# Titanic - Machine Learning from Disaster (Kaggle)
+# Titanic - Machine Learning from Disaster 
 
 This repository contains my submission for the classic Kaggle competition:  
 **Titanic - Machine Learning from Disaster**
@@ -25,6 +25,8 @@ The goal is to predict which passengers survived the Titanic shipwreck using cla
 ├── submission_titanic.csv  # Final prediction file submitted to Kaggle
 ├── requirements.txt
 ├── README.md
+├── LICENSE
+├── .gitignore
 ```
 
 ---
