@@ -79,6 +79,8 @@ This notebook walks through the following key steps:
 ### 4. Feature Engineering & Preprocessing
 - Capped outliers
 - Log, Box-Cox, and Yeo-Johnson transformations
+  ![image](https://github.com/user-attachments/assets/1137d0a4-28b9-47ad-97e9-282f57584fe5)
+
 - Encoded rare labels in categorical columns
 - Calculated permutation-based feature importances:
 ![image](https://github.com/user-attachments/assets/a30ccf30-86cf-476d-955b-74f5e1c56279)
