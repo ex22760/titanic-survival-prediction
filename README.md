@@ -17,7 +17,7 @@ This repository showcases my solution to Kaggle’s iconic Titanic: Machine Lear
 - **Kaggle Accuracy**: `0.78947`
 - **Leaderboard Rank**: `1446 / 16022` (Top ~9%)
 - **Model**: Logistic Regression with custom random imputation and feature engineering
-- **Notebook**: Fully self-contained Kaggle-style notebook with EDA, preprocessing, modeling, and submission
+- **Notebook**: Fully self-contained Kaggle-style notebook with EDA, preprocessing, modelling, and submission
 
 ---
 
