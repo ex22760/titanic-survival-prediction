@@ -116,6 +116,14 @@ jupyter notebook titanic_survival_analysis.ipynb
 
 ---
 
+## Acknowledgements
+
+Developed as part of the Titanic: Machine Learning from Disaster competition.
+
+![image](https://github.com/user-attachments/assets/609478e2-b15a-4588-8f61-cdd6716bdf9e)
+
+---
+
 ## Contact
 
 **Sujin Subanthran**
