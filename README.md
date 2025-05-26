@@ -4,6 +4,16 @@ This repository showcases my solution to Kaggle’s iconic Titanic: Machine Lear
 
 ---
 
+## Tech Stack
+
+**Languages:** Python
+
+**Libraries:** numpy, pandas, matplotlib, seaborn, scipy, scikit-learn, xgboost, re, warnings
+
+**Tools:** Jupyter Notebook, Git/GitHub, GridSearchCV
+
+---
+
 ## Project Highlights
 
 - **Kaggle Accuracy**: `0.78947`
@@ -57,6 +67,7 @@ This notebook walks through the following key steps:
 
 ### 5. Modelling and Grid Search
 
+
 | Pipeline                         | Train Accuracy | Test Accuracy |
 |---------------------------------|----------------|---------------|
 | Random Forest Classification     | 0.995          | 0.802         |
@@ -65,6 +76,7 @@ This notebook walks through the following key steps:
 | **Random Forest with Grid Search** | **0.851**    | **0.825**     |
 | Gradient Boosting with Grid Search | 0.909        | 0.795         |
 | Logistic Regression with Grid Search | 0.833       | 0.810         |
+
 
   - Random Forest with Grid search performed best with best parameters: `max_depth=5`, `min_samples_split=10`, `n_estimators=30`
 
