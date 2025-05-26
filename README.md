@@ -52,14 +52,18 @@ This notebook walks through the following key steps:
 
 
 ### 5. Modelling and Grid Search
-- Built pipelines with:
-  - Random Forest
-  - Gradient Boosting
-  - Logistic Regression
-- **Final model**: `RandomForestClassifier` + `GridSearchCV`
+
+| Pipeline                         | Train Accuracy | Test Accuracy |
+|---------------------------------|----------------|---------------|
+| Random Forest Classification     | 0.995          | 0.802         |
+| Gradient Boosting Classification | 0.915          | 0.802         |
+| Logistic Regression              | 0.839          | 0.821         |
+| **Random Forest with Grid Search** | **0.851**    | **0.825**     |
+| Gradient Boosting with Grid Search | 0.909        | 0.795         |
+| Logistic Regression with Grid Search | 0.833       | 0.810         |
+
   - Best Params: `max_depth=5`, `min_samples_split=10`, `n_estimators=30`
-  - Train Accuracy: **0.851**
-  - Test Accuracy: **0.825**
+
 
 ---
 
