@@ -18,8 +18,8 @@ The goal is to predict which passengers survived the Titanic shipwreck using cla
 
 ## Contents
 
-- `titanic_kaggle_notebook.ipynb`: Main notebook with code and analysis
-- `output/submission.csv`: Final prediction file submitted to Kaggle
+- `titanic_notebook.ipynb`: Main notebook with code and analysis
+- `submission_titanic.csv`: Final prediction file submitted to Kaggle
 - `requirements.txt`: Python dependencies
 
 ---
