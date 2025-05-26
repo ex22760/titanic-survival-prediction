@@ -43,6 +43,8 @@ cd titanic-survival-prediction
 pip install -r requirements.txt
 '''
 
+---
+
 ## 📊 Overview
 
 This notebook walks through the following key steps:
