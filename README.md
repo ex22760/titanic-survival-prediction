@@ -34,7 +34,7 @@ This repository showcases my solution to Kaggle’s iconic Titanic: Machine Lear
 If you'd like to reproduce this locally:
 
 ```bash
-git clone https://github.com/yourusername/titanic-survival-prediction.git
+git clone https://github.com/ex22760/titanic-survival-prediction.git
 cd titanic-survival-prediction
 pip install -r requirements.txt
 ```
@@ -98,3 +98,8 @@ weighted avg   0.83      0.82      0.82       268
 ```
 
 
+## Contact
+
+**Sujin Subanthran**
+
+[LinkedIn Profile](https://www.linkedin.com/in/sujin-subanthran-b44512226/)
